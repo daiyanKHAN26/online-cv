@@ -136,8 +136,8 @@ skills:
       - name: Sketch & Photoshop
         level: 85%  
         
-      - name: Pytorch
+      - name: Pytorch and sci-kit learn
         level: 70%
 
-      - name: sci-kit learn
+      - name: LaTeX
         level: 70%
