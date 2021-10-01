@@ -13,8 +13,7 @@ sidebar:
 
     # Sidebar links
     email: daiyankhan26@gmail.com
-    phone: +8801732039212
-    website: blog.webjeda.com #do not add http://
+    phone: 008801732039212
     linkedin: daiyankhan26
     github: daiyanKHAN26
     twitter: '@daiyanwashere'
@@ -30,8 +29,8 @@ sidebar:
       - item: Graphics Design
         link: https://www.instagram.com/liverboyart/
 
-      - item: Snowboarding
-        link:
+      - item: Football
+        link: https://twitter.com/DaiyanWasHere
 
       - item: Cooking
         link:
@@ -39,12 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently looking to enter the job market as a full-time worker.
 education:
     - degree: BSc in Computer Science
       university: BRAC University
@@ -121,25 +115,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CarRepair
+        link: https://github.com/daiyanKHAN26/car_repair
+        tagline: "Full-stack code for a simple website where users can book mechanics for car repairs, and admin has control over server database to add or delete users and mechanics."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: MovieReview
+        link: "https://github.com/daiyanKHAN26/Movie-Review-website"
+        tagline: "Full-stack code for a simple movie review website, UAC included."
 
 publications:
     title: Publications
@@ -174,16 +156,13 @@ skills:
         level: 95%
 
       - name: Python
-        level: 80%
-
-      - name: Angular
-        level: 98%
-
-      - name: Ruby on Rails
         level: 85%
+
+      - name: Pytorch
+        level: 80%
 
       - name: Sketch & Photoshop
         level: 85%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Arduino
+        level: 70%
