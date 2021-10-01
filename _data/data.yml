@@ -100,14 +100,25 @@ projects:
 publications:
     title: Publications
     intro: |
-      I am currently working on a research paper that is based on the application of Machine Learning (ML) to detect
-        skin cancer from images using a CNN (Convolutional Neural Networks, a Deep
-        Learning Image Processing algorithm).
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: An Efficient Deep Learning Approach to Detect Skin Cancer
-        link: "https://drive.google.com/file/d/1ieNU2hpoQzQp_uRk7l5PHx06JDvuiHHv/view?usp=sharing"
-        authors: Daiyan Khan, Ashfaqul Alam, Rakeen Ashraf Chowdhury
-        conference: 
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 
 skills:
     title: Skills &amp; Proficiency
