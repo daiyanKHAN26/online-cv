@@ -54,7 +54,7 @@ education:
         a research paper on the application of Machine Learning (ML) to detect
         skin cancer from images using a CNN (Convolutional Neural Networks, a Deep
         Learning Image Processing algorithm).
-    - degree: A'levels
+    - degree: A levels
       university: Sir John Wilson School
       time: 2013 - 2015
       details: |
@@ -65,7 +65,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point          
-    - degree: O'levels
+    - degree: O levels
       university: Sir John Wilson School
       time: 2013
       details: |
