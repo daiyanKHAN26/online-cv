@@ -116,7 +116,7 @@ publications:
         skin cancer from images using a CNN (Convolutional Neural Networks, a Deep Learning Image Processing algorithm).
     papers:
       - title: An Efficient Deep Learning Approach to Detect Skin Cancer
-        link: "https://drive.google.com/file/d/1ieNU2hpoQzQp_uRk7l5PHx06JDvuiHHv/view"
+        link: "#" #https://drive.google.com/file/d/1ieNU2hpoQzQp_uRk7l5PHx06JDvuiHHv/view
         authors: Daiyan Khan, Ashfaqul Alam, Rakeen Ashraf Chowdhury
         conference: 
 
