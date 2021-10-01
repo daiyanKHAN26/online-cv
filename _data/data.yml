@@ -116,7 +116,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: CarRepair
-        link: https://github.com/daiyanKHAN26/car_repair
+        link: "https://github.com/daiyanKHAN26/car_repair"
         tagline: "Full-stack code for a simple website where users can book mechanics for car repairs, and admin has control over server database to add or delete users and mechanics."
 
       - title: MovieReview
