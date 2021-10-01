@@ -59,6 +59,7 @@ education:
       time: 2013
       details: |
         
+        
 experiences:
     - role: Graphics Designer
       time: 2015 - Present
@@ -100,7 +101,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      yes
+      asdadasdasdasdadas
     papers:
       - title: The Art of Computer Programming
         link: "#"
