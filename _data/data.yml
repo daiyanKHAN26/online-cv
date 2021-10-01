@@ -42,7 +42,8 @@ career-profile:
 education:
     - degree: BSc in Computer Science
       university: BRAC University
-      time: 2016 - 2021
+      time: 2016 - 2021 (Expected)
+      CGPA: 3.03
       details: |
         Due to complete a bachelors in Computer Science, en-route to publishing
         a research paper on the application of Machine Learning (ML) to detect
@@ -71,32 +72,19 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Food Review Journalist
+      time: 2015 - 2017
+      company: Dhaka Foodiez, Dhaka
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Article Writer
+        - Had to carry out on-site interviews of restaurant owners
+        - Provided public reviews for food items and offers
+    - role: Data Entry Operator
+      time: 2012 - 2014
+      company: Northern Marble & Granite Industries, Ltd., Dhaka
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - In charge of translating all analog paperwork to digital database
+        - 
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -111,9 +99,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      At the moment, most of the projects I have available for public viewing are based
+      on the works I had undertaken for my undergrad. Below are some repositories of
+      finished websites with their respective git-pushes.
     assignments:
       - title: CarRepair
         link: "https://github.com/daiyanKHAN26/car_repair"
