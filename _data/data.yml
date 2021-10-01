@@ -54,9 +54,20 @@ education:
         a research paper on the application of Machine Learning (ML) to detect
         skin cancer from images using a CNN (Convolutional Neural Networks, a Deep
         Learning Image Processing algorithm).
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: A'levels
+      university: Sir John Wilson School
+      time: 2014 - 2015
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point          
+    - degree: O'levels
+      university: Sir John Wilson School
+      time: 2014 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
