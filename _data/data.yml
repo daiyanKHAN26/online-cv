@@ -24,6 +24,9 @@ sidebar:
 
       - idiom: Bangla
         level: Native
+        
+      - idiom: Hindi
+        level: Basic Spoken
 
     interests:
       - item: Graphics Design
@@ -45,32 +48,25 @@ education:
       time: 2016 - 2021 (Expected)
       details: |
         Due to complete a bachelors in Computer Science, en-route to publishing
-        a research paper on the application of Machine Learning (ML) to detect
-        skin cancer from images using a CNN (Convolutional Neural Networks, a Deep
-        Learning Image Processing algorithm).
+        a Machine-Learning based reseach paper.
     - degree: A levels
       university: Sir John Wilson School
       time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point          
+        Completed my A levels in Phyics, Chemistry and Maths.   
     - degree: O levels
       university: Sir John Wilson School
       time: 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
+    - role: Graphics Designer
+      time: 2015 - Present
+      company: Self-employed
+      details: |
+        - Currently have an art and graphics design page
+        - Custom logo-design and artwork done
+        - Commission based work
     - role: Food Review Journalist
       time: 2015 - 2017
       company: Dhaka Foodiez, Dhaka
@@ -82,19 +78,10 @@ experiences:
       time: 2012 - 2014
       company: Northern Marble & Granite Industries, Ltd., Dhaka
       details: |
-        - In charge of translating all analog paperwork to digital database
-        - 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - In charge of translating all analog paperwork to a digital database
+        - Maintenance of digital database
+        - Weekly verification of Data Entry
+
 projects:
     title: Projects
     intro: >
@@ -113,24 +100,13 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I am currently working on a research paper that is based on the application of Machine Learning (ML) to detect
+        skin cancer from images using a CNN (Convolutional Neural Networks, a Deep
+        Learning Image Processing algorithm).
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: An Efficient Deep Learning Approach to Detect Skin Cancer
+        link: "https://drive.google.com/file/d/1ieNU2hpoQzQp_uRk7l5PHx06JDvuiHHv/view?usp=sharing"
+        authors: Daiyan Khan, Ashfaqul Alam, Rakeen Ashraf Chowdhury
 
 skills:
     title: Skills &amp; Proficiency
@@ -144,12 +120,15 @@ skills:
 
       - name: Python
         level: 85%
-
+        
+     - name: Sketch & Photoshop
+        level: 85%  
+        
       - name: Pytorch
         level: 80%
 
-      - name: Sketch & Photoshop
-        level: 85%
+      - name: sci-kit learn
+        level: 70%
 
       - name: Arduino
         level: 70%
