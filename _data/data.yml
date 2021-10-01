@@ -118,7 +118,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 95%
 
       - name: HTML5 & CSS
