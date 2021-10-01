@@ -70,7 +70,7 @@ experiences:
         - Commission based work
     - role: Food Review Journalist
       time: 2015 - 2017
-      company: Dhaka Foodiez, Dhaka
+      company: Dhaka Foodiez, Dhaka (now known as Foodiez)
       details: |
         - Article Writer
         - Had to carry out on-site interviews of restaurant owners
@@ -104,7 +104,7 @@ publications:
         I am currently working on a research paper that is based on the application of Machine Learning (ML) to detect
         skin cancer from images using a CNN (Convolutional Neural Networks, a Deep Learning Image Processing algorithm).
     papers:
-      - title: The Art of Computer Programming
+      - title: An Efficient Deep Learning Approach to Detect Skin Cancer
         link: "https://drive.google.com/file/d/1ieNU2hpoQzQp_uRk7l5PHx06JDvuiHHv/view"
         authors: Daiyan Khan, Ashfaqul Alam, Rakeen Ashraf Chowdhury
         conference: 
