@@ -132,14 +132,11 @@ skills:
       - name: Python
         level: 85%
         
-     - name: Sketch & Photoshop
+      - name: Sketch & Photoshop
         level: 85%  
         
       - name: Pytorch
         level: 80%
 
       - name: sci-kit learn
-        level: 70%
-
-      - name: Arduino
         level: 70%
