@@ -109,7 +109,7 @@ projects:
         tagline: "Full-stack code for a simple movie review website, UAC included."
 
 publications:
-    title: Publications
+    title: Academic Projects
     intro: |
         I have written a research paper that is based on the application of Machine Learning (ML) to detect
         skin cancer from images using a CNN (Convolutional Neural Networks, a Deep Learning Image Processing algorithm).
