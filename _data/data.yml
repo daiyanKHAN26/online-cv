@@ -17,6 +17,7 @@ sidebar:
     linkedin: daiyankhan26
     github: daiyanKHAN26
     twitter: '@daiyanwashere'
+    instagram: liverboyart
 
     languages:
       - idiom: English
@@ -41,18 +42,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Deadline-driven Front-End Web Developer focused on overseeing projects from conception through to final delivery. 
-      Experienced in planning, organizing and executing both projects and events. Successfully creates brand messages, 
-      strategies and key graphic productions. Highly people-oriented and a skilled communicator who is comfortable 
-      interacting with people in any situation. Eager to learn new skills, with an unwavering work ethic. Determined 
-      to embrace any challenge, looking to leave a positive impact on people with every work.
+      Deadline-driven Front-End Web Developer focused on overseeing projects from conception through to final delivery. Experienced in organizing and executing both projects and events. Successfully creates brand messages, strategies and key graphic productions. Highly people-oriented and adept at effectively interacting with people in any situation. Eager to learn new skills, with an unwavering work ethic.
 education:
     - degree: BSc in Computer Science
       university: BRAC University
       time: 2016 - 2021 (Expected)
       details: |
-        Due to complete a bachelors in Computer Science, en-route to publishing
-        a Machine-Learning based reseach paper.
     - degree: A levels
       university: Sir John Wilson School
       time: 2013 - 2015
@@ -69,29 +64,25 @@ experiences:
       time: 2015 - Present
       company: Self-employed
       details: |
-        - Currently have an art and graphics design page
-        - Created broad range of work using various design techniques.
         - Manage design conceptualization, milestones and customer feedback.
-        - Custom logo-design and artwork for personal use of customers done
-        - Managing social media pages as well as keeping track of sales
+        - Managing social media pages as well as keeping track of sales.
         - Created design for the branding and packaging of local start-ups by designing cohesive looks between elements such as logos and letterheads.
+
     - role: Food Review Journalist
       time: 2015 - 2017
       company: Dhaka Foodiez, Dhaka (now known as Foodiez)
       details: |
         - Article Writer
-        - Had to carry out on-site interviews of restaurant owners
-        - Individually ensured the investigative coverage of multiple food related events throughout Dhaka
-        - Provided reviews of food items and offers for public commercial use (newspaper and social media publications)
+        - Had to carry out on-site interviews of restaurant owners.
+        - Individually ensured the investigative coverage of multiple food related events throughout Dhaka and provided reviews of food items and offers for commercial use (newspaper and social media publications).
+        
     - role: Data Entry Operator
       time: 2012 - 2015
       company: Northern Marble & Granite Industries, Ltd., Dhaka
       details: |
-        - In charge of translating all analog paperwork to a digital database
-        - Scanned documents and saved in database to keep records of essential organizational information.
-        - Scrubbed data for errors and made corrections to maintain clean records.
-        - Established new protocols for data sourcing, entry and updating protocols for other department employees to follow.
-        - Maintenance and weekly verification of all data entries.
+        - In charge of translating all analog paperwork to a digital database, along with weekly verification checks. 
+        - Scanned documents and saved in a database to keep records of essential organizational information.
+        - Established new protocols for data sourcing, entry and updating protocols for employees of all departments to follow (Data Flow improvements via Kaizen methods).
 
 projects:
     title: Projects
@@ -107,6 +98,10 @@ projects:
       - title: MovieReview
         link: "https://github.com/daiyanKHAN26/Movie-Review-website"
         tagline: "Full-stack code for a simple movie review website, UAC included."
+        
+      - title: Accident Database using OOP
+        link: "https://github.com/daiyanKHAN26/Accident-Database-using-OOP"
+        tagline: "A simple accident info recording method written in Python3 using OOP methods."
 
 publications:
     title: Academic Projects
@@ -114,7 +109,7 @@ publications:
         I have written a research paper that is based on the application of Machine Learning (ML) to detect
         skin cancer from images using a CNN (Convolutional Neural Networks, a Deep Learning Image Processing algorithm).
     papers:
-      - title: An Efficient Deep Learning Approach to Detect Skin Cancer
+      - title: An Efficient Deep Learning Approach to Detecting Skin Cancer
         link: "https://drive.google.com/file/d/1nlDj2lkLeTDNNwtcBPhpE0zwL7olR93M/view?usp=sharing"
         authors: Daiyan Khan, Ashfaqul Alam, Rakeen Ashraf Chowdhury
         conference: 
@@ -123,17 +118,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript
+      - name: Python
         level: 95%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Python
+      - name: JavaScript
         level: 85%
         
       - name: Sketch & Photoshop
         level: 85%  
+        
+      - name: Matlab
+        level: 70%
         
       - name: Pytorch and sci-kit learn
         level: 70%
