@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Daiyan Khan
@@ -42,11 +42,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Deadline-driven Front-End Web Developer focused on overseeing projects from conception through to final delivery. Experienced in organizing and executing both projects and events. Successfully creates brand messages, strategies and key graphic productions. Highly people-oriented and adept at effectively interacting with people in any situation. Eager to learn new skills, with an unwavering work ethic.
+      Deadline-driven Computer Science Graduate focused on overseeing projects from conception through to final delivery. Experienced in organizing and executing both projects and events. Successfully creates brand messages, strategies and key graphic productions. Highly people-oriented and adept at effectively interacting with people in any situation. Eager to learn new skills, with an unwavering work ethic.
 education:
     - degree: BSc in Computer Science
       university: BRAC University
-      time: 2016 - 2021 (Expected)
+      time: 2016 - 2021
       details: |
     - degree: A levels
       university: Sir John Wilson School
@@ -106,13 +106,23 @@ projects:
 publications:
     title: Academic Projects
     intro: |
-        I have written a research paper that is based on the application of Machine Learning (ML) to detect
-        skin cancer from images using a CNN (Convolutional Neural Networks, a Deep Learning Image Processing algorithm).
+        I have written papers based on Machine Learning. The first employs the use of Convolutional Neural Networks (CNNs) using Keras Sequential API to be able to detect skin
+        cancer from images of skin growths. The second paper compares the performance of 4 classification algorithms and applies hyperparameter tuning on the model with the 
+        highest accuracy. The third paper is how a chatbot is created that learns responses via ML techniques.
     papers:
       - title: An Efficient Deep Learning Approach to Detecting Skin Cancer
-        link: "https://drive.google.com/file/d/1nlDj2lkLeTDNNwtcBPhpE0zwL7olR93M/view?usp=sharing"
+        link: "https://github.com/daiyanKHAN26/An-Efficient-Deep-Learning-Approach-to-Detecting-Skin-Cancer/blob/main/paper_IEEE_format.pdf"
         authors: Daiyan Khan, Ashfaqul Alam, Rakeen Ashraf Chowdhury
+        conference:
+      - title: Evaluation of ML Based Classification Algorithms in Liver Disease Prediction
+        link: "https://github.com/daiyanKHAN26/Evaluation-of-ML-Based-Classification-Algorithms-in-Liver-Disease-Prediction/blob/main/final-paper.pdf"
+        authors: Daiyan Khan
         conference: 
+      - title: An ML Based Chatbot for Queries using a Distributed Systems
+        link: "https://github.com/daiyanKHAN26/CSE449/blob/main/submission%204/An_ML_Based_Chatbot_for_Queries_using_a_Distributed_System.pdf"
+        authors: Daiyan Khan, Redwanuzzaman, Md. Muyeed Shahriar, Sanowar Hossain Raja, Md. Mamun-Or-Rashid
+        conference: 
+        
 
 skills:
     title: Skills &amp; Proficiency
@@ -123,9 +133,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: JavaScript
-        level: 85%
         
       - name: Sketch & Photoshop
         level: 85%  
@@ -138,3 +145,6 @@ skills:
 
       - name: LaTeX
         level: 70%
+        
+      - name: JavaScript
+        level: 50%
